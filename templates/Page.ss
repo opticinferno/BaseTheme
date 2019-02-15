@@ -22,8 +22,9 @@
   </head>
 
 <body>
-
+<link rel="stylesheet" href="themes/thompsons/css/customstyles.css">
 	<!-- CHECK IF USER IS USING OLD VERSION OF IE -->
+
 	<script type="text/javascript">
 	var browser = navigator.appName;
 	var ver = navigator.appVersion;
@@ -42,6 +43,8 @@
 
 	</div>
 <% include Footer %>
+	<script src="themes/thompsons/javascript/jquery-3.2.1.slim.min.js"></script>
+	<script src="themes/thompsons/javascript/bootstrap.min.js"></script>
 	<script src="themes/thompsons/javascript/animation.js"></script>
 
 </body>

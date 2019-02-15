@@ -1,10 +1,6 @@
 <div class="MyContent">
-
+<div class="container">
         $Content
-
-    <div class="container">
-			<%--<% include TestimonialSlider %>--%>
-        $Form
-    </div>
+</div>
 </div>
 
