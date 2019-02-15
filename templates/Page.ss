@@ -13,9 +13,7 @@
     <!--<link src="obconfig/fonts/icomoon/style.css">-->
     <link rel="shortcut icon" href="{$ThemeDir}/icons/favicon.ico">
     <link rel="apple-touch-icon" href="{$ThemeDir}/icons/apple-touch-icon.png">
-    <link rel="stylesheet" href="{$ThemeDir}/font-awesome/footerstyle.css" >
-	<link rel="stylesheet" href="{$ThemeDir}/font-awesome/style.css" >
-    <link rel="stylesheet" href="{$ThemeDir}/font-awesome/css/font-awesome.min.css">
+
     <link href="{$ThemeDir}/font-awesome/style.css" >
 	<link href="https://fonts.googleapis.com/css?family=Berkshire+Swash&amp;subset=latin-ext" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Poppins:300 |Roboto|Fjalla+One" rel="stylesheet">
@@ -37,13 +35,14 @@
 	</script>
 	<div class="site-wrapper">
    	<div class="content-wrapper">
+		<% include Navbar %>
 
    	$Layout
 	</div>
 
 	</div>
-
-	<script src="themes/optic/javascript/animation.js"></script>
+<% include Footer %>
+	<script src="themes/thompsons/javascript/animation.js"></script>
 
 </body>
 

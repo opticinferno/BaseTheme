@@ -1,6 +1,6 @@
 <div class="MyContent">
 
-        $ElementalArea
+        $Content
 
     <div class="container">
 			<%--<% include TestimonialSlider %>--%>
