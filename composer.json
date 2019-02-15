@@ -1,0 +1,22 @@
+{
+    "name": "CptPillow/thompsons",
+    "description": "Thompsons theme",
+    "type": "silverstripe-theme",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Gordon Skinner"
+        }
+    ],
+    "require": {
+        "silverstripe/framework": ">=4.2.1"
+    },
+    "extra": {
+
+        "expose": [
+            "css",
+            "image",
+            "javascript"
+        ]
+    }
+}

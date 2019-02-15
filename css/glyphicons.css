@@ -1,0 +1,129 @@
+@font-face {
+  font-family: 'icomoon';
+  src: url("fonts/icomoon.eot?594hbe");
+  src: url("fonts/icomoon.eot?594hbe#iefix") format("embedded-opentype"), url("fonts/icomoon.ttf?594hbe") format("truetype"), url("fonts/icomoon.woff?594hbe") format("woff"), url("fonts/icomoon.svg?594hbe#icomoon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* line 12, C:/wamp64/www/ssdistancelearning/themes/optic/bootstrap/scss/glyphicons.scss */
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* line 27, C:/wamp64/www/ssdistancelearning/themes/optic/bootstrap/scss/glyphicons.scss */
+.icon-googleplus:before {
+  content: "\e60b";
+}
+
+/* line 30, C:/wamp64/www/ssdistancelearning/themes/optic/bootstrap/scss/glyphicons.scss */
+.icon-facebook:before {
+  content: "\e60c";
+}
+
+/* line 33, C:/wamp64/www/ssdistancelearning/themes/optic/bootstrap/scss/glyphicons.scss */
+.icon-twitter:before {
+  content: "\e60d";
+}
+
+/* line 36, C:/wamp64/www/ssdistancelearning/themes/optic/bootstrap/scss/glyphicons.scss */
+.icon-rss:before {
+  content: "\e60e";
+}
+
+/* line 39, C:/wamp64/www/ssdistancelearning/themes/optic/bootstrap/scss/glyphicons.scss */
+.icon-youtube:before {
+  content: "\e60f";
+}
+
+/* line 42, C:/wamp64/www/ssdistancelearning/themes/optic/bootstrap/scss/glyphicons.scss */
+.icon-pinterest:before {
+  content: "\e610";
+}
+
+/* line 45, C:/wamp64/www/ssdistancelearning/themes/optic/bootstrap/scss/glyphicons.scss */
+.icon-tripadvisor:before {
+  content: "\e611";
+}
+
+/* line 48, C:/wamp64/www/ssdistancelearning/themes/optic/bootstrap/scss/glyphicons.scss */
+.icon-google-plus:before {
+  content: "\ea8b";
+}
+
+/* line 51, C:/wamp64/www/ssdistancelearning/themes/optic/bootstrap/scss/glyphicons.scss */
+.icon-google-plus2:before {
+  content: "\ea8c";
+}
+
+/* line 54, C:/wamp64/www/ssdistancelearning/themes/optic/bootstrap/scss/glyphicons.scss */
+.icon-google-plus3:before {
+  content: "\ea8d";
+}
+
+/* line 57, C:/wamp64/www/ssdistancelearning/themes/optic/bootstrap/scss/glyphicons.scss */
+.icon-facebook2:before {
+  content: "\ea90";
+}
+
+/* line 60, C:/wamp64/www/ssdistancelearning/themes/optic/bootstrap/scss/glyphicons.scss */
+.icon-facebook22:before {
+  content: "\ea91";
+}
+
+/* line 63, C:/wamp64/www/ssdistancelearning/themes/optic/bootstrap/scss/glyphicons.scss */
+.icon-instagram:before {
+  content: "\ea92";
+}
+
+/* line 66, C:/wamp64/www/ssdistancelearning/themes/optic/bootstrap/scss/glyphicons.scss */
+.icon-twitter2:before {
+  content: "\ea96";
+}
+
+/* line 69, C:/wamp64/www/ssdistancelearning/themes/optic/bootstrap/scss/glyphicons.scss */
+.icon-rss2:before {
+  content: "\ea9b";
+}
+
+/* line 72, C:/wamp64/www/ssdistancelearning/themes/optic/bootstrap/scss/glyphicons.scss */
+.icon-rss22:before {
+  content: "\ea9c";
+}
+
+/* line 75, C:/wamp64/www/ssdistancelearning/themes/optic/bootstrap/scss/glyphicons.scss */
+.icon-youtube2:before {
+  content: "\ea9d";
+}
+
+/* line 78, C:/wamp64/www/ssdistancelearning/themes/optic/bootstrap/scss/glyphicons.scss */
+.icon-linkedin:before {
+  content: "\eac9";
+}
+
+/* line 81, C:/wamp64/www/ssdistancelearning/themes/optic/bootstrap/scss/glyphicons.scss */
+.icon-linkedin2:before {
+  content: "\eaca";
+}
+
+/* line 84, C:/wamp64/www/ssdistancelearning/themes/optic/bootstrap/scss/glyphicons.scss */
+.icon-pinterest2:before {
+  content: "\ead1";
+}
+
+/* line 87, C:/wamp64/www/ssdistancelearning/themes/optic/bootstrap/scss/glyphicons.scss */
+.icon-pinterest22:before {
+  content: "\ead2";
+}
+
+/*# sourceMappingURL=../../css/glyphicons.map */
